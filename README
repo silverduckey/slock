@@ -1,5 +1,0 @@
-Please edit the username and group in config.def.h accordingly before installing
-Installation:
-git clone https://gitlab.com/vudangxyz/slock .slock
-cd .slock
-sudo make clean install
