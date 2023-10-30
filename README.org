@@ -1,0 +1,10 @@
+** Installation:
+:PROPERTIES:
+:CUSTOM_ID: installation
+:END:
+#+begin_example
+git clone https://gitlab.com/vudangxyz/slock ~/.slock
+cd ~/.slock
+# Please edit the username and group in config.def.h accordingly before installing
+sudo make clean install
+#+end_example
