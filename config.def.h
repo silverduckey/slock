@@ -3,7 +3,7 @@ static const char *user  = "vu";
 static const char *group = "vu";
 
 static const char *colorname[NUMCOLS] = {
-	[INIT] =   "#181825",     /* after initialization */
+	[INIT] =   "#1e1e2e",     /* after initialization */
 	[INPUT] =  "#a6e3a1",   /* during input */
 	[FAILED] = "#f38ba8",   /* wrong password */
 	[CAPS] = "#eba0ac",         /* CapsLock on */
